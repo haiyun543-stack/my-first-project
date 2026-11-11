@@ -13,8 +13,8 @@
 - [x] 注册 GitHub 账号
 - [x] 创建第一个仓库
 - [x] 学会编辑并提交 README
-- [ ] 学会上传本地文件
-- [ ] 学会创建分支和 Pull Request
+- [x] 学会在网页上直接新建文件
+- [x] 学会创建分支和 Pull Request
 
 ## 常用命令备忘
 
@@ -24,6 +24,10 @@ git add .                # 暂存所有改动
 git commit -m "说明"     # 提交一次快照
 git push                 # 推送到 GitHub
 ```
+
+## 分支练习记录
+
+这次修改是在 `practice-branch` 分支上完成的，改完会通过 Pull Request 合并回 main。
 
 ## 作者
 
